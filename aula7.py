@@ -135,8 +135,8 @@ A soma é 5,
  a divisão é 0.667A divisão interia é 0, a potência é 8
 
 Desafio 005
-Faça um programa que leia um número inteiro e mostre na teela o seu suce
-ssor e seu antecessor
+Faça um programa que leia um número inteiro e mostre na tela o seu suces
+sor e seu antecessor
 Desafio 006
 Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz
 quadrada
